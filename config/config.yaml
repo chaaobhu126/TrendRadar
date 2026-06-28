@@ -310,8 +310,7 @@ notification:
   # 推送渠道配置
   channels:
     feishu:
-      webhook_url: "https://open.feishu.cn/open-apis/bot/v2/hook/e1d7f9a1-f570-417d-9ff0-7ab94fc01397
-"                 # 飞书机器人 webhook URL
+      webhook_url: "https://www.feishu.cn/flow/api/trigger-webhook/4459f74685b9fc4c57b7add8c14c4b58"                 # 飞书机器人 webhook URL
 
     dingtalk:
       webhook_url: ""                 # 钉钉机器人 webhook URL
